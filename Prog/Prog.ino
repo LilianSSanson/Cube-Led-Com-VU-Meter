@@ -1,6 +1,5 @@
 #include "Tlc5940.h"
 #include "LinkedList.h"
-//DEBUG: 0 no Debug via Serial  1: BT Serial info and test Led ("onn"/"off") 2: All Debug (Frames,Layer,...)
 #define DEBUG 0
 
 #define CUBE_SIZE 6
