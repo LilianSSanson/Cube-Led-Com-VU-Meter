@@ -20,15 +20,7 @@
 #define BLUE 0
 
 //EXTERNAL ANIMATIONS
-//#include "wallsVertical.h"
 #include "font6RGBit.h"
-//#include "cube_Grow.h"
-#include "waterfallRGBit.h"
-#include "cubeBuildRGBit.h"
-//#include "cubeGrowRGBit.h"
-#include "wavRGBit.h"
-#include "cubesMove.h"
-//#include "waveContinuous.h"
 
 uint8_t layers[]={A0,A1,A2,A3,A4,A5};
 
@@ -48,7 +40,7 @@ unsigned long oldMicros = 0;
 int spectrumValue[8]={0,0,0,0,0,0,0,0};
 const uint8_t MSGEQSCALE=1024/CUBE_SIZE;
 
-//BRIGHTNESS, ANIMATION UTILITIES
+//BRIGHTNESS
 uint16_t maxBright= MAXBRIGHT;
 int brightR;
 int brightG;
