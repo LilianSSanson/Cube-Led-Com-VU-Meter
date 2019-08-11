@@ -1,2 +1,2 @@
-# Cube-Led-Com-VU-Meter
+# Cube Led with VU meter and sound connected by bluetooth
  
