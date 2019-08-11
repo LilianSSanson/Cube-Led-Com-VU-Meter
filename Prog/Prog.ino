@@ -134,27 +134,9 @@ void loop(){
  
     //Select current animation for next Frame
     switch(curAnim){
-      case 0:AllOff();cubeGrow(FrameCount);cubeGrow((FrameCount+17)%34);
+      case 0:msgeqMusic();
              break;
-      case 1:AllRed();
-             break;      
-      case 2:AllGreen();
-             break;       
-      case 3:AllBlue();
-             break;       
-      case 4:rain(36);
-             break;       
-      case 5:randomLedsFull();
-             break;        
-      case 6:cubeGrow(FrameCount);
-             break;  
-      case 7:msgeqMusic();
-             break;
-      case 8:
-      case 9:       
-      case 10:loadAnimationBit();
-             break;
-     case 99:textShow();
+     case 1:textShow();
            break;
       default:randomLeds(1,0,0);
              break;   
@@ -199,29 +181,6 @@ void BTEvent(){
         Serial.print("Switched Anim: ");
         Serial.println(curAnim);
         #endif
-        //Custom Animations
-        switch(curAnim){
-          case 7: //MSGEQ7 Audio Visualizer
-            FRAME_TIME=50;
-            maxCount=0;
-            break;
-          case 8:
-             animation=&ani_waterfallrgbit[0][0];
-             FRAME_TIME=ANI_WATERFALLRGBIT_FRAMETIME;
-             maxCount=ANI_WATERFALLRGBIT_FRAMES;
-             break;
-           case 9:
-             animation=&ani_wavrgbit[0][0];
-             FRAME_TIME=ANI_WAVRGBIT_FRAMETIME;
-             maxCount=ANI_WAVRGBIT_FRAMES;
-             break;
-         case 10:
-             animation=&ani_cubesmove[0][0];
-             FRAME_TIME=ANI_CUBESMOVE_FRAMETIME;
-             maxCount=ANI_CUBESMOVE_FRAMES;
-             break;
-          }
-    }
     //TEXT SHOW
     else if (serialData[0] == 'T'){
       AllOff();
