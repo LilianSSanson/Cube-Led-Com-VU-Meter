@@ -12,4 +12,9 @@ Esse projeto é divido em duas grandes partes: A caixa de som e o cubo de led.
 
 # Caixa de Som
 
-A caixa de som em si é bem simpleste, pelo fato de que serão necessárias poucas coisas.
+A caixa de som em si é bem simples, pelo fato de que serão necessárias poucas coisas.
+<ul>
+<li>Amplificador de &Aacute;udio Bluetooth Receptor TDA7492P 50+50W</li>
+<li>Caixas de som</li>
+<li>Cabo AUX</li>
+</ul>
