@@ -41,3 +41,11 @@ E o diagrama é ainda mais facil, como pode se observar na imagem abaixo.
 # Cube Installation
 
 <p>A montagem do cubo tem em v&aacute;rios lugares, e para n&atilde;o ficar extenso &eacute; s&oacute;&nbsp;<a href="https://www.instructables.com/id/RGB-LED-Cube-With-Bluetooth-App-AnimationCreator/">clicar aqui</a>&nbsp;para ver como faze-la, e al&eacute;m disso &eacute; um dos sites que tomei como base para cria&ccedil;&atilde;o do projeto. A partir do passo 9 &eacute; opicional, futuramente posso incluir no c&oacute;digo e aprimorar, mas por enquanto &eacute; s&oacute; at&eacute; ai.</p>
+
+# Use
+
+Bom como dito no inicio esse projeto é meramente decorativo, funcionado como decoração e um toca musica, podendo ser utilizado na sua casa, ou em festas com seus amigos.
+
+Para que possa entender mais ou menos a funcionalidade do projeto é so ver o video abaixo.
+<p><iframe src="//www.youtube.com/embed/hyaItBO_Ryo" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+
