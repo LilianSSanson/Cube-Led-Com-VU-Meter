@@ -19,3 +19,5 @@ A caixa de som em si é bem simples, pelo fato de que serão necessárias poucas
 <li>Cabo AUX</li>
 </ul>
 E o diagrama é ainda mais facil, como pode se observar na imagem abaixo.
+
+<p><img src="https://github.com/LilianSSanson/Cube-Led-Com-VU-Meter-Via-Bluethooth/blob/master/Amplificador%20de%20%C3%81udio%20Bluetooth.jpg" width="400" height="600" /></p>
