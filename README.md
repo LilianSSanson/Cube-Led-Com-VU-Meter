@@ -21,3 +21,19 @@ A caixa de som em si é bem simples, pelo fato de que serão necessárias poucas
 E o diagrama é ainda mais facil, como pode se observar na imagem abaixo.
 
 <p><img src="https://github.com/LilianSSanson/Cube-Led-Com-VU-Meter-Via-Bluethooth/blob/master/Amplificador%20de%20%C3%81udio%20Bluetooth.jpg" width="400" height="600" /></p>
+
+# Cubo 
+
+<p>J&aacute; para o cubo n&atilde;o &eacute; t&atilde;o simples, eles necessitar&aacute; de diversos componentes como os citados abaixo.</p>
+<ul>
+<li>216 RGB Leds(No caso de um cubo 6x6x6)</li>
+<li>7 x TLC5940</li>
+<li>6 x IRF 9540</li>
+<li>216 x Resistores de 220Ohm</li>
+<li>7 x Capacitores de 10 uF</li>
+<li>2 x Capacitores de 1000 uF</li>
+<li>7 x Resistores de 2.2kOhm</li>
+<li>7 x 28pin IC Sockets</li>
+<li>7 x Capacitores de 0.1 uF&nbsp;</li>
+<li>1 x Arduino</li>
+</ul>
