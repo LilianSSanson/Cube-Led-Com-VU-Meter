@@ -48,3 +48,4 @@ Bom como dito no inicio esse projeto é meramente decorativo, funcionado como de
 
 Para que possa entender mais ou menos a funcionalidade do projeto é so ver<p><a href="https://www.youtube.com/watch?v=hyaItBO_Ryo" target="_blank" rel="noopener">esse video.</a></p>
 
+E como resultado final seria isso, mais uma caixa de som por baixo.
