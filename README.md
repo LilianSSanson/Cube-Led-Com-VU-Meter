@@ -46,6 +46,5 @@ E o diagrama é ainda mais facil, como pode se observar na imagem abaixo.
 
 Bom como dito no inicio esse projeto é meramente decorativo, funcionado como decoração e um toca musica, podendo ser utilizado na sua casa, ou em festas com seus amigos.
 
-Para que possa entender mais ou menos a funcionalidade do projeto é so ver o video abaixo.
-<p><iframe src="//www.youtube.com/embed/hyaItBO_Ryo" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+Para que possa entender mais ou menos a funcionalidade do projeto é so ver <p><a href="https://www.youtube.com/watch?v=hyaItBO_Ryo" target="_blank" rel="noopener">esse video.</a></p>
 
