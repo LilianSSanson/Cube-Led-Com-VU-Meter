@@ -18,3 +18,4 @@ A caixa de som em si é bem simples, pelo fato de que serão necessárias poucas
 <li>Caixas de som</li>
 <li>Cabo AUX</li>
 </ul>
+E o diagrama é ainda mais facil, como pode se observar na imagem abaixo.
