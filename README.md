@@ -38,5 +38,3 @@ E o diagrama é ainda mais facil, como pode se observar na imagem abaixo.
 <li>1 x Arduino</li>
 </ul>
 # Cube Installation
-
-A montagem do cubo tem em vários lugares, e para não ficar extenso é só <p><a href="https://www.instructables.com/id/RGB-LED-Cube-With-Bluetooth-App-AnimationCreator/" target="_blank" rel="noopener">clique aqui.</a>para ver como faze-la, e além disso é um dos sites que tomei como base para criação do projeto. A partir do passo 9 é opicional, futuramente posso incluir no código e aprimorar, mas por enquanto é só até ai.
